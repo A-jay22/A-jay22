@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay
-- 👀 I’m interested in web development, app development.
+- 👀 I’m interested in software develpment, Engineering
 - 🌱 I’m currently learning python, Django.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me andyjessica22@gmail.com
